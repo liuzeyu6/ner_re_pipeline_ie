@@ -1,0 +1,6 @@
+2024-05-31 17:12:39,553:INFO: --------The device you are using is cuda--------
+2024-05-31 17:12:39,554:INFO: --------Loading NER model from NER/model/ckpt_dataset_20240420/ner_model.pth--------
+2024-05-31 17:12:42,201:INFO: --------NER model has been loaded successfully!--------
+2024-05-31 17:12:42,201:INFO: --------Loading RE model from ./RE\ckpt/lzy_pipeline_bert_entity.pth.tar--------
+2024-05-31 17:12:42,201:INFO: Loading BERT pre-trained checkpoint.
+2024-05-31 17:12:43,107:INFO: --------RE model has been loaded successfully!--------

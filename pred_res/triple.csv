@@ -1,0 +1,18 @@
+entity_h,rel,rel_score,entity_t
+"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)",promote,0.989742577,contraction
+"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)",in,0.525684476,rat aorta
+"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)",is part of,0.84629935,H2O
+"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)",is part of,0.992168725,Leonuri herba
+contraction,is part of,0.943983555,"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)"
+contraction,in,0.99965775,rat aorta
+contraction,in,0.862272382,H2O
+contraction,is part of,0.709531069,Leonuri herba
+rat aorta,is part of,0.98135972,"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)"
+rat aorta,promote,0.956077874,contraction
+rat aorta,is part of,0.968338847,Leonuri herba
+H2O,is part of,0.966134429,"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)"
+H2O,promote,0.998844743,contraction
+H2O,is part of,0.957838058,Leonuri herba
+Leonuri herba,is part of,0.993833423,"Leonuri herba (I-mu-ts'ao, the Chinese motherwort)"
+Leonuri herba,promote,0.992697775,contraction
+Leonuri herba,is part of,0.838076949,H2O
